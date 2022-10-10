@@ -1,3 +1,3 @@
-# Web-Hacktoberfest2022
+# Web-Hacktoberfest
 React web project for Hacktoberfest 2022 by DSC NMAMIT.
-Maintained by Ryuukenshi
+Maintained by Ryuukenshi.
